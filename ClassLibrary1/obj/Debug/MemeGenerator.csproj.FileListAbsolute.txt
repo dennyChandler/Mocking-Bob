@@ -1,0 +1,5 @@
+C:\Users\Alex\documents\visual studio 2015\Projects\sarcasticBob\ClassLibrary1\obj\Debug\MemeGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Alex\documents\visual studio 2015\Projects\sarcasticBob\ClassLibrary1\bin\Debug\MemeGenerator.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\sarcasticBob\ClassLibrary1\bin\Debug\MemeGenerator.pdb
+C:\Users\Alex\documents\visual studio 2015\Projects\sarcasticBob\ClassLibrary1\obj\Debug\MemeGenerator.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\sarcasticBob\ClassLibrary1\obj\Debug\MemeGenerator.pdb
