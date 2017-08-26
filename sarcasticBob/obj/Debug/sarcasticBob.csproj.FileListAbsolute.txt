@@ -16,5 +16,5 @@ C:\Users\Alex\documents\visual studio 2015\Projects\sarcasticBob\sarcasticBob\bi
 C:\Users\Alex\documents\visual studio 2015\Projects\sarcasticBob\sarcasticBob\obj\Debug\sarcasticBob.Resource.resources
 C:\Users\Alex\documents\visual studio 2015\Projects\sarcasticBob\sarcasticBob\obj\Debug\sarcasticBob.csproj.GenerateResource.Cache
 C:\Users\Alex\documents\visual studio 2015\Projects\sarcasticBob\sarcasticBob\bin\Debug\spongebob.jpg
-C:\Users\Alex\documents\visual studio 2015\Projects\sarcasticBob\sarcasticBob\bin\Debug\MemeGenerator.dll
-C:\Users\Alex\documents\visual studio 2015\Projects\sarcasticBob\sarcasticBob\bin\Debug\MemeGenerator.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\sarcasticBob\sarcasticBob\bin\Debug\MemeGenerator.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\sarcasticBob\sarcasticBob\bin\Debug\MemeGenerator.pdb

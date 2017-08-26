@@ -44,6 +44,9 @@
       <HintPath>..\packages\DSharpPlus.CommandsNext.2.5.4\lib\net45\DSharpPlus.CommandsNext.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="MemeGenerator">
+      <HintPath>..\memeGenerator\bin\Debug\MemeGenerator.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.10.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
@@ -90,12 +93,6 @@
     <Content Include="spongebob.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\MemeGenerator.csproj">
-      <Project>{b111d0d5-c68c-4c20-ad32-cfa5ab9a39f2}</Project>
-      <Name>MemeGenerator</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resource.resx">

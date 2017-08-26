@@ -16,15 +16,19 @@ namespace sarcasticBob
 
         public Utility()
         {
-            Generator = new MemeGenerator.MemeGenerator(); 
+            Generator = new MemeGenerator.MemeGenerator();
+            
         }
 
 
         public async Task<string> GetLastMessageAsync(CommandContext ctx, DiscordMember member)
         {
             var messages = await ctx.Channel.GetMessagesAsync(around: ctx.Channel.LastMessageId, limit: 100);
-
-            return messages.First(message => message.Author.Id.Equals(member.Id)).Content;
+            messages = messages.ToList();
+            var userMessages = messages.Where(message => message.Author.Id.Equals(member.Id));
+            var messageToReturn = userMessages.First(message => message.Content != ".").Content;
+           
+            return messageToReturn;
         }
 
         public string CreateSpongeBob(string text)
